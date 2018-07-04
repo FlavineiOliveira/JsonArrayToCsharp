@@ -1,0 +1,9 @@
+C:\Users\FLAVINEI\source\repos\ConsoleJson\bin\Debug\ConsoleJson.exe.config
+C:\Users\FLAVINEI\source\repos\ConsoleJson\bin\Debug\ConsoleJson.exe
+C:\Users\FLAVINEI\source\repos\ConsoleJson\bin\Debug\ConsoleJson.pdb
+C:\Users\FLAVINEI\source\repos\ConsoleJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FLAVINEI\source\repos\ConsoleJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FLAVINEI\source\repos\ConsoleJson\obj\Debug\ConsoleJson.csprojResolveAssemblyReference.cache
+C:\Users\FLAVINEI\source\repos\ConsoleJson\obj\Debug\ConsoleJson.csproj.CoreCompileInputs.cache
+C:\Users\FLAVINEI\source\repos\ConsoleJson\obj\Debug\ConsoleJson.exe
+C:\Users\FLAVINEI\source\repos\ConsoleJson\obj\Debug\ConsoleJson.pdb
